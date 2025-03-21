@@ -1,23 +1,5 @@
-Wire
-Tape
-Label
-Terminal
-Housing
-Cable Gland
-Connector
-Seal
-Screw
-Plug
-Tie
-Tube
-Foam
-Thermistor
-Ferrite
-Sponge
-Grommet
-PVC Boot
-Solder Wire
-Polishing Kit
-Dimension
-Others
-Fuse
+Image
+Section
+Table
+Notes
+Weld
