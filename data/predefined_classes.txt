@@ -1,5 +1,2 @@
-Image
-Section_Text
 Table
-Notes
-Weld
+Image
