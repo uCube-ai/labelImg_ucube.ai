@@ -1,2 +1,2 @@
 Table
-Image
+Section_text
